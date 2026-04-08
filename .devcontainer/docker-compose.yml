@@ -1,0 +1,11 @@
+services:
+  sacred-texts-dev:
+    image: sacred-texts-dev
+    container_name: sacred-texts-dev
+    build:
+      context: ../.
+      dockerfile: ./.devcontainer/Dockerfile
+    working_dir: /sacred-texts
+    volumes:
+      - ..:/sacred-texts:cached
+    tty: true
