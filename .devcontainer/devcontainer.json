@@ -1,5 +1,5 @@
 {
-  "name": "Enoch Book Translations Dev",
+  "name": "Sacred Texts Repository Dev",
   "dockerComposeFile": [
     "docker-compose.yml"
   ],
