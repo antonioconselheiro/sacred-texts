@@ -1,0 +1,5 @@
+> Deuteronômio 32:8
+> 
+> Quando o Altíssimo distribuía as heranças às nações, quando dividia os filhos de Adão uns dos outros, estabeleceu os termos dos povos, conforme o número dos filhos de Israel. 
+
+# Sacred Texts

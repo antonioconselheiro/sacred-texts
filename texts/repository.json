@@ -1,0 +1,12 @@
+{
+  "sa": {
+    "key": "sa",
+    "name": "Sanskrit",
+    "translations": {
+      "mahabharata-sanskrit": {
+        "key": "mahabharata-sanskrit",
+        "name": "Mahabharata Sanskrit"
+      }
+    }
+  }
+}
